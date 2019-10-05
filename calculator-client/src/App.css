@@ -1,0 +1,40 @@
+.result {
+  height: 60px;
+  background-color: rgb(157, 206, 111);
+  width: 100%;
+}
+
+.result p {
+  font-size: 30px;
+  margin: 5px;
+}
+
+.calculator-body {
+  max-width: 250px;
+  max-height: 500px;
+  margin: auto;
+}
+
+button {
+  width: 25%;
+  height: 40px;
+  font-size: 20px;
+  display: 'block';
+}
+
+.num-button {
+  background-color: #F5B041;
+}
+
+.oper-button {
+  background-color: #3498DB;
+}
+
+.equal-button{
+  background-color: #058318;
+}
+
+.clear-button {
+  width: 100%;
+  background-color: #797D7F;
+}
